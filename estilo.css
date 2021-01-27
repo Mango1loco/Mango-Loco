@@ -1,0 +1,202 @@
+.frutas img{
+	border-radius: 100px;
+	height: 180px;
+	width: 180px;
+	display: inline-block;
+	margin-right: 35px;
+	border: 2px solid white;
+}
+
+.frutas li{
+	display: inline-block;
+}
+
+
+
+.final {
+	height: 200px;
+	width: 100%;
+	border: 2px solid black;
+	margin-top: 180px;
+	text-align: center;
+}
+
+
+.numeros li h3{
+  display: inline-block;
+}
+
+#oscuro:hover {
+  cursor: pointer;
+}
+
+
+body 	{
+    font-family: Comic Sans MS;
+	outline: none;
+}
+
+#Search {
+	border-radius: 50px;
+	outline: none;
+	width: 500px;
+	border: 2px solid blue;
+}
+
+.busca a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+
+.busca ul li{
+	list-style: none;
+}
+
+#mapa1 {
+	border: 2px solid black;
+}
+
+#mapa2 {
+	border: 2px solid black
+}
+
+#p{
+   text-decoration: none;
+   color: black;
+}
+
+#w{
+   text-decoration: none;
+   color: black;
+}
+
+#p:hover {
+	text-decoration: underline;
+}
+
+#w:hover {
+	text-decoration: underline;
+}
+
+#Search {
+	height: 28px;
+	width: 200px;
+	font-size: 24px;
+}
+
+#final li{
+   list-style: none;
+   display: inline-block;
+}
+
+#-_- {
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+}
+
+#-_-:hover {
+	text-decoration: underline;
+}
+
+#frutitas li{
+	display: block;
+	width: 50%;
+	border: 1px solid black;
+	margin-top: 5px;
+}
+
+
+.titulo-sitioweb img{
+     height: 15px;
+     width: 15px;
+}
+#frutitas li:hover {
+	border: 2px solid blue;
+}
+
+#ert {
+	text-decoration: none;
+	color: blue;
+}
+
+#T-T {
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+#T-T:hover {
+    text-decoration: underline;
+}
+
+#ert:hover {
+text-decoration: underline;
+}
+
+#logo {
+	border-radius: 100%;
+	border: 2px solid white;
+	height: 150px;
+
+}
+
+#Regresa {
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+#Regresa:hover {
+	text-decoration: underline;
+}
+
+.sitios-web a{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 20px;
+}
+
+#k-k {
+	color: black;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+#k-k:hover {
+	text-decoration: underline;
+}
+.sitios-web a:hover {
+	text-decoration: underline;
+}
+
+.sitios-web li {
+	display: inline-block;
+}
+
+#w-w {
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+
+#w-w:hover {
+	text-decoration: underline;
+}
+
+#nanchesin {
+   height: 300px;
+   width: 300px;
+   border-radius: 100%;
+}
+
+#u-u {
+	text-decoration: none;
+}
+
+#u-u:hover {
+	text-decoration: underline;
+}
